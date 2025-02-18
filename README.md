@@ -41,6 +41,3 @@ The dashboard includes:
 
 ## 📜 License
 MIT License - Open for public use and modifications.
-
----
-Let me know if you need any refinements! 🎯
