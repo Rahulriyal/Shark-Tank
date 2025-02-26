@@ -37,7 +37,4 @@ The dashboard includes:
 ## 🚀 How to Use
 1. Open **Power BI**
 2. Load the `.pbix` file
-3. Interact with visualizations & filters to explore insights
-
-## 📜 License
-MIT License - Open for public use and modifications.
+3. Interact with visualizations & filters to explore insights.
